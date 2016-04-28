@@ -13,4 +13,3 @@ Prerequisites
 
 3. Create Queries for all tables present in SQL_QUERIES.txt in Resource folder
 4. Database template -  “.OOAD_db_2015-12-04.sql”
-s
